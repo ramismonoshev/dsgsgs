@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e38a3a1-ba31-4e74-9e06-fc8503a6e8e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rmadridista.com.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/123.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/200px-Eden_Hazard_2018_(cropped).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/599257_luka-jovic_ls.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Asensio2019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Bale2019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Beckham.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Benzema2019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Bernabeu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Butragueno.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Cannavaro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Carlos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Carvajal2019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Casemiro2019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Casillas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/CasillasRaul.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DMariano2019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DiStefano.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/FValverde2019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Figo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Gento.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Guti.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/HSanchez.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Hierro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Isco2019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/James.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Juanito.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Kroos2019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Lucas2019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Makelele.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Marcelo2019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Michel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Mijatovic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Modric2019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Nacho2019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Nistelrooy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Odriozola2019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Puskas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Raul.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Redondo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Ronaldo2018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Salgado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Sanchis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Santillana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/SergioRamos2019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Varane2019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Vinicius2019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Zidane.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Zidane2018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/areola.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/benzema-1200x631.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/braRonaldo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/club.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/courtois.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/eden.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/espanyol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/f6a6a87f7e014d3aec206043913c379c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/history.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kk.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mendy.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/miletao.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/players.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/qwer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ramos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/realmadrid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/stadium.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/super.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/trofia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/worldCup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legends.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/play.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stadium.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trophy.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML4 File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1V4V7iUQgANgrvqrGcuENZ3GePy" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.js.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e38a3a1-ba31-4e74-9e06-fc8503a6e8e7" name="Default Changelist" comment="" />
+      <created>1576512188293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576512188293</updated>
+      <workItem from="1576512189414" duration="1212000" />
+      <workItem from="1576602717119" duration="3216000" />
+      <workItem from="1576684582117" duration="6338000" />
+      <workItem from="1576764477389" duration="455000" />
+      <workItem from="1576766149228" duration="15333000" />
+      <workItem from="1576786906675" duration="37000" />
+      <workItem from="1654606517818" duration="3853000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
